@@ -1637,6 +1637,13 @@ input, select, textarea {
 			width: 100%;
 		}
 
+		#img-reset{
+    border-radius: 50%;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+		}
+
 		.image.featured {
 			display: block;
 			width: 100%;
@@ -2442,4 +2449,8 @@ input, select, textarea {
 						margin-top: 0;
 					}
 
+	}
+
+	#w{
+		width: 20%;
 	}
